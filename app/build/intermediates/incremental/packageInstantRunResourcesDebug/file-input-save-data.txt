@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Jan 24 19:39:50 CST 2017
+1.base=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\dialogmain.xml
+1.file=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.file=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.base=F\:\\Android_Demo\\DialogProject\\app\\build\\intermediates\\res\\resources-debug.ap_

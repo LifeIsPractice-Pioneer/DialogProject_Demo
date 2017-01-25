@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Android_Demo\DialogProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a126f33409bce4ca3fac9e943c79386300201113">
+        <dex dex="F:\Android_Demo\DialogProject\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_ed316e08eeade08b2d4743804c549930f5c4c71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android_Demo\DialogProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15e17ab3094ee97929d77d7c3e3679b9a7e439fd">
+        <dex dex="F:\Android_Demo\DialogProject\app\build\intermediates\pre-dexed\debug\instant-run_034ccf9cd717e7b9fa540662f167ed0a53a0bb40.jar" />
+    </item>
+
+</items>
